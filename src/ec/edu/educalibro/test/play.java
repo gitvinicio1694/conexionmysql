@@ -9,13 +9,13 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Bernabe Ortega bernabe.ortega@gmail.com
+ * @author Vinicio Diaz .vinicioismael1694@gmail.com
  */
 public class play {
 
     public static void main(String[] args) {
         clienteDalc dalc = new clienteDalc();
-        cliente c = new cliente(0, "06030", "yo soy", "0987578596");
+        cliente c = new cliente(0, "1224", "yo soy", "0979369407");
         try {
             dalc.registrar(c);
         } catch (Exception ex) {

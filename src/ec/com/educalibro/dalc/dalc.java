@@ -6,14 +6,14 @@ import javax.print.DocFlavor;
 
 /**
  *
- * @author Bernabe Ortega bernabe.ortega@gmail.com
+ * @author Vinicio Diaz .vinicioismael1694@gmail.com
  */
 public class dalc {
     private Connection cn;
     
     /**
      * Abre una conexión al motor de base de datos
-     * @throws Exception captura el error y lo muestra
+    
      */
     public void Conectar() throws Exception{
         try {

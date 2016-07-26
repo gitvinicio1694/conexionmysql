@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Bernabe Ortega bernabe.ortega@gmail.com
+ * @author Vinicio Diaz.vinicioismael1694@gmail.com
  */
 
 public class clienteDalc extends dalc{

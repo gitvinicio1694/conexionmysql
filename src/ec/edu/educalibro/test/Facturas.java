@@ -26,7 +26,7 @@ import javax.persistence.Transient;
 
 /**
  *
- * @author VINICIO DIAZ
+ * @author Vinicio Diaz .vinicioismael1694@gmail.com
  */
 @Entity
 @Table(name = "facturas", catalog = "Facturacion", schema = "public")

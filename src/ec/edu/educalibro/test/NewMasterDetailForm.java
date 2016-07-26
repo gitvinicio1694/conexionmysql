@@ -20,7 +20,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author VINICIO DIAZ
+ * @author Vinicio Diaz .vinicioismael1694@gmail.com
  */
 public class NewMasterDetailForm extends JPanel {
     

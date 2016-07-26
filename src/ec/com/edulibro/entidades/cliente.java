@@ -1,7 +1,7 @@
 package ec.com.edulibro.entidades;
 /**
  *
- * @author Bernabe Ortega bernabe.ortega@gmail.com
+ * @author Vinicio Diaz .vinicioismael1694@gmail.com
  */
 public class cliente {
     private int id;
